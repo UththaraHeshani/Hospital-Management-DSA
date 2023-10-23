@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1645726104 source:d:\university\2nd year\1 st sem\data structures & algorithms\mini\group04\group04\main.c
+	<windows.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
